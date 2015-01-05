@@ -41,3 +41,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#filter sln config
+*.mdb  
+*.ldb  
+*.sln  
+*.config  
+  
+  
+#filter folder
+Debug/  
+Release/  
+obj/
+packages/
