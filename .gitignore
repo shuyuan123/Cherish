@@ -54,3 +54,4 @@ Debug/
 Release/  
 obj/
 packages/
+bin/
